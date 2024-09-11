@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="ma_et_hint_dame_tu_nombre">Dame tu nombre plis</string>
+    <string name="ma_tv_hola_extra_o">Hola %1$s Bienvenido/a!</string>
+    <string name="main_btn_saludar">Saludar</string>
+    <string name="ma_iv_content_description">Se muestra un gatito saludando</string>
+</resources>
